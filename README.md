@@ -41,19 +41,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
 * [@editorjs/checklist](https://github.com/editor-js/checklist) — checklists for your texts
 
-#### Images
+#### Media
 
 * [@editorjs/image](https://github.com/editor-js/image) — image block
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) — add images to article by pasting image URLs. no server-side uploader required
 
-#### Files
-
-* [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
-
-#### Media
+#### Links
 
 * [@editorjs/link](https://github.com/editor-js/link) — link with preview
-* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content.
 
 #### Table
 
@@ -63,6 +58,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [@editorjs/code](https://github.com/editor-js/code) — tools for code examples
 * [@editorjs/raw](https://github.com/editor-js/raw) — include raw HTML code to your article
+
+#### Attaches
+
+* [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
+
+#### Embed content
+
+* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content.
 
 ### Inline Tools
 
