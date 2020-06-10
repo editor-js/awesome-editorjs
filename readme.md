@@ -113,6 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
 * [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
+* [automad.org](https://automad.org) — a flat-file content management system and template engine
 
 ### Apps/Websites
 
