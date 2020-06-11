@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   * [PHP](#php)
   * [Ruby](#ruby)
 * [Tutorials and sources](#tutorials-and-sources)
-* [Projects Using Editor.js](#projects-using-editor-js)
+* [Projects Using Editor.js](#projects-using-editorjs)
   * [Open source](#open-source)
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
@@ -114,6 +114,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
 
+<!--
 ### Apps/Websites
+-->
 
 [Back to top](#contents)
