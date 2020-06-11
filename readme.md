@@ -1,8 +1,4 @@
-<p align="center">
-  <br>
-  <img width="250" src="./assets/logo.svg" alt="logo of awesome-editorjs repository">
-  <br>
-</p>
+[![](./assets/editor-awesome.png)](https://editorjs.io/)
 
 # Awesome Editor.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
