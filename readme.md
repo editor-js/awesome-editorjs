@@ -14,15 +14,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [Tools](#tools)
   * [Block Tools](#block-tools)
+    * [Text and typography](#text-and-typography)
+    * [Lists](#lists)
+    * [Media & Embed](#media--embed)
+    * [Table](#table)
+    * [Code](#code)
   * [Inline Tools](#inline-tools)
 * [Libraries](#libraries)
   * [JavaScript](#javascript)
   * [PHP](#php)
+  * [Ruby](#ruby)
 * [Tutorials and sources](#tutorials-and-sources)
 * [Projects Using Editor.js](#projects-using-editor-js)
   * [Open source](#open-source)
-  * [Apps / Websites](#apps-websites)
-<!--  * [Commercial Products](#commercial-products) -->
+<!-- * [Apps / Websites](#apps-websites) -->
+<!-- * [Commercial Products](#commercial-products) -->
 
 ## Tools
 
@@ -41,14 +47,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
 * [@editorjs/checklist](https://github.com/editor-js/checklist) — checklists for your texts
 
-#### Media
+#### Media & Embed
 
 * [@editorjs/image](https://github.com/editor-js/image) — image block
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) — add images to article by pasting image URLs. no server-side uploader required
-
-#### Links
-
 * [@editorjs/link](https://github.com/editor-js/link) — link with preview
+* [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
+* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content.
 
 #### Table
 
@@ -59,14 +64,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/code](https://github.com/editor-js/code) — tools for code examples
 * [@editorjs/raw](https://github.com/editor-js/raw) — include raw HTML code to your article
 * [editor-js-code](https://github.com/paraswaykole/editor-js-code) — a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles
-
-#### Attaches
-
-* [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
-
-#### Embed content
-
-* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content.
 
 ### Inline Tools
 
@@ -107,6 +104,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ## Projects Using Editor.js
 
+👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
+
 ### Open source
 
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
@@ -116,7 +115,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
 
 ### Apps/Websites
-
-* [spark.ru](https://spark.ru)
 
 [Back to top](#contents)
