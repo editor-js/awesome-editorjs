@@ -49,7 +49,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) — add images to article by pasting image URLs. no server-side uploader required
 * [@editorjs/link](https://github.com/editor-js/link) — link with preview
 * [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
-* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content.
+* [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content
+* [simple-image-editorjs](https://github.com/PaulKinlan/simple-image) — fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage
 
 #### Table
 
@@ -60,6 +61,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/code](https://github.com/editor-js/code) — tools for code examples
 * [@editorjs/raw](https://github.com/editor-js/raw) — include raw HTML code to your article
 * [editor-js-code](https://github.com/paraswaykole/editor-js-code) — a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles
+* [editorjs-codemirror](https://github.com/alexiej/editorjs-codemirror) — Code Mirror for the Editor.js allows to include code examples in your articles.
+* [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
 
 ### Inline Tools
 
@@ -92,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Wordpress
 
-* [Front Editor](https://wpfronteditor.com/) - Best Front Editor plugin for WordPress
+* [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for WordPress
 
 ## Tutorials and sources
 
