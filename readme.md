@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     * [Table](#table)
     * [Code](#code)
   * [Inline Tools](#inline-tools)
+  * [Plugins](#plugins)
 * [Libraries](#libraries)
   * [JavaScript](#javascript)
   * [PHP](#php)
@@ -51,6 +52,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
 * [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content
 * [simple-image-editorjs](https://github.com/PaulKinlan/simple-image) — fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage
+* [editorjs-github-gist-plugin](https://github.com/ranemihir/editorjs-github-gist-plugin) — add Github Gists to Editor.js
+* [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) — embed images from image files, URLs or Unsplash
 
 #### Table
 
@@ -72,6 +75,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-inline-spoiler-tool](https://www.npmjs.com/package/editorjs-inline-spoiler-tool) — inline text spoiler
 * [editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool) — create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...)
 
+### Plugins
+
+* [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
+* [editorjs-undo](https://github.com/kommitters/editorjs-undo) — Undo/Redo feature for Editor.js
+
 ## Libraries
 
 ### JavaScript
@@ -79,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) — editor.js for Vue users 
 * [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) — the unofficial editor-js component for React
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) — React wrapper component for Editor.js
+* [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
 
 ### PHP
 
