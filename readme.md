@@ -114,6 +114,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
+* [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
+
 ### Open source
 
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
