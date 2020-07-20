@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/quote](https://github.com/editor-js/quote) — tool for quotes
 * [@editorjs/warning](https://github.com/editor-js/warning) — warning tool can be used as editorials notifications or appeals
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) — delimiter tool
+* [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) - tool for adding colorful alert messages
 
 #### Lists
 
