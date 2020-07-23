@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content
 * [simple-image-editorjs](https://github.com/PaulKinlan/simple-image) — fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage
 * [editorjs-github-gist-plugin](https://github.com/ranemihir/editorjs-github-gist-plugin) — add Github Gists to Editor.js
+* [editorjs-social-post-plugin](https://github.com/ranemihir/editorjs-social-post-plugin) — embed uploaded posts from different social media platforms to Editor.js
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) — embed images from image files, URLs or Unsplash
 
 #### Table
