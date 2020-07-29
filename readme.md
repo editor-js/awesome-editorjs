@@ -104,6 +104,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editor_js](https://rubygems.org/gems/editor_js) — it validates, parses, and renders content from editorjs
 
+### Swift
+
+* [editor.js-kit-ios](https://github.com/Upstarts/editor.js-kit-ios) - iOS framework for parsing and rendering blocks
+
+### Kotlin
+
+* [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) - Android framework for parsing and rendering blocks
+
 ### Wordpress
 
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for WordPress
