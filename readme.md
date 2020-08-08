@@ -116,10 +116,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for WordPress
 
-### OctoberCMS
-
-* [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for OctoberCMS
-
 ## Tutorials and sources
 
 * [editorjs.io](https://editorjs.io) — offical docs
