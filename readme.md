@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) — the unofficial editor-js component for React
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) — React wrapper component for Editor.js
 * [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
+* [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) - React component to render blocks to semantic HTML5 tags
 
 ### PHP
 
