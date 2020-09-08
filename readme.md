@@ -19,11 +19,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   * [Plugins](#plugins)
 * [Libraries](#libraries)
   * [JavaScript](#javascript)
+    * [Vue.js](#vuejs)
+    * [React](#react)
+    * [Angular](#angular)
   * [PHP](#php)
   * [Ruby](#ruby)
+  * [Swift](#swift)
+  * [Kotlin](#kotlin)
+  * [Plugins for CMS](#plugins-for-cms)
 * [Tutorials and sources](#tutorials-and-sources)
 * [Projects Using Editor.js](#projects-using-editorjs)
-  * [Open source](#open-source)
+  * [Open source projects](#open-source-projects)
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
 
@@ -88,11 +94,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### JavaScript
 
+* [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
+
+#### Vue.js
+
 * [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) — editor.js for Vue users 
+
+#### React
+
 * [react-editor-js](https://github.com/Jungwoo-An/react-editor-js) — the unofficial editor-js component for React
 * [@stfy/react-editor.js](https://github.com/stfy/react-editor.js) — React wrapper component for Editor.js
-* [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
 * [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) - React component to render blocks to semantic HTML5 tags
+
+#### Angular
+
+* [@tinynodes/ngx-editorjs](https://www.npmjs.com/package/@tinynodes/ngx-editorjs) — This library provides Angular support for EditorJS.
 
 ### PHP
 
@@ -116,13 +132,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) - Android framework for parsing and rendering blocks
 
-### Wordpress
+### Plugins for CMS
 
-* [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for WordPress
-
-### OctoberCMS
-
-* [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for OctoberCMS
+* [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
+* [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for [OctoberCMS](https://octobercms.com)
 
 ## Tutorials and sources
 
@@ -134,7 +147,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
 
-### Open source
+### Open source projects
 
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
