@@ -124,6 +124,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editor_js](https://rubygems.org/gems/editor_js) — it validates, parses, and renders content from editorjs
 
+### Go
+
+* [micheleriva/editorjs-go](https://github.com/micheleriva/editorjs-go) — Fast markdown/HTML generator for Editor.js
+
 ### Swift
 
 * [editor.js-kit-ios](https://github.com/Upstarts/editor.js-kit-ios) - iOS framework for parsing and rendering blocks
