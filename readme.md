@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     * [Angular](#angular)
   * [PHP](#php)
   * [Ruby](#ruby)
+  * [Go](#go)
   * [Swift](#swift)
   * [Kotlin](#kotlin)
   * [Plugins for CMS](#plugins-for-cms)
