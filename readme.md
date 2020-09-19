@@ -85,6 +85,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/underline](https://github.com/editor-js/underline) — underlining text fragments
 * [editorjs-inline-spoiler-tool](https://www.npmjs.com/package/editorjs-inline-spoiler-tool) — inline text spoiler
 * [editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool) — create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...)
+* [editorjs-inline](https://github.com/hata6502/editorjs-inline) — Inline-Editor.js Tool for Editor.js
+* [editorjs-style](https://github.com/hata6502/editorjs-style) — Inline-style Tool for Editor.js
+* [editorjs-inspector](https://github.com/hata6502/editorjs-inspector) — DOM inspector feature for Editor.js
 
 ### Plugins
 
