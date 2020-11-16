@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     * [React](#react)
     * [Angular](#angular)
   * [PHP](#php)
+  * [Python](#python)
   * [Ruby](#ruby)
   * [Go](#go)
   * [Swift](#swift)
