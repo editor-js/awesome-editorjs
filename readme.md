@@ -127,6 +127,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) — Editor JS field for Laravel Nova
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) — Converter EditorJS JSON to HTML
 
+### Python
+
+* [django-editorjs-fields](https://github.com/2ik/django-editorjs-fields) — Django admin plugin for using Editor.js
+
 ### Ruby
 
 * [editor_js](https://rubygems.org/gems/editor_js) — it validates, parses, and renders content from editorjs
