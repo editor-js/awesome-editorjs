@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/marker](https://github.com/editor-js/marker) — tool for highlighting text-fragments
 * [@editorjs/inline-code](https://github.com/editor-js/inline-code) — tool for marking monospace code-fragments
 * [@editorjs/underline](https://github.com/editor-js/underline) — underlining text fragments
+* [editorjs-hyperlink](https://github.com/trinhtam/editorjs-hyperlink) — A tool link with target & rel attribute for Editor.js
 * [editorjs-inline-spoiler-tool](https://www.npmjs.com/package/editorjs-inline-spoiler-tool) — inline text spoiler
 * [editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool) — create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...)
 * [editorjs-inline](https://github.com/hata6502/editorjs-inline) — Inline-Editor.js Tool for Editor.js
