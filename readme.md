@@ -171,6 +171,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
 * [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
+* [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
+
 
 <!--
 ### Apps/Websites
