@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Table
 
 * [@editorjs/table](https://github.com/editor-js/table) — table constructor tool
+* [editorjs-table](https://github.com/4rw44z/editorjs-table) - Table contructor tool with great editing row/column options.
 
 #### Code
 
