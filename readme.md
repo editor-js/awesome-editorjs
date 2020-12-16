@@ -81,8 +81,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
 
 #### Button
-* [editorjs-button](https://github.com/kaaaaaaaaaaai/editorjs-button) — Create a button with a link and text.
 
+* [editorjs-button](https://github.com/kaaaaaaaaaaai/editorjs-button) — Create a button with a link and text.
 
 ### Inline Tools
 
