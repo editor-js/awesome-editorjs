@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Go
 
 * [micheleriva/editorjs-go](https://github.com/micheleriva/editorjs-go) — Fast markdown/HTML generator for Editor.js
+* [davidscottmills/goeditorjs](https://github.com/davidscottmills/goeditorjs) - An extensible HTML/markdown generator for editorjs.
 
 ### Swift
 
