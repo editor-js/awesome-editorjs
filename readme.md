@@ -170,6 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
+* [Poda](https://poda.io) — Project planning and roadmaping
 
 ### Open source projects
 
