@@ -164,6 +164,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## Tutorials and sources
 
 * [editorjs.io](https://editorjs.io) — offical docs
+* [Tutorial: Integrating Editor.js into your react application](https://www.walkthrough.so/pblc/snKICMzxzedr/codelab-integrating-editor-js-into-your-react-application)
+* [Tutorial: Creating a custom editorjs block tool with React](https://www.walkthrough.so/pblc/QCawSCKwOQLn/creating-a-custom-editorjs-block-tool-with-react)
 
 ## Projects Using Editor.js
 
@@ -171,6 +173,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
 * [Poda](https://poda.io) — Project planning and roadmaping
+* [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 
 ### Open source projects
 
