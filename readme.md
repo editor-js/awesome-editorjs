@@ -166,6 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs.io](https://editorjs.io) — offical docs
 * [Tutorial: Integrating Editor.js into your react application](https://www.walkthrough.so/pblc/snKICMzxzedr/codelab-integrating-editor-js-into-your-react-application)
 * [Tutorial: Creating a custom editorjs block tool with React](https://www.walkthrough.so/pblc/QCawSCKwOQLn/creating-a-custom-editorjs-block-tool-with-react)
+* [editorjs-examples](https://github.com/hata6502/editorjs-examples) — Examples of using Editor.js
 
 ## Projects Using Editor.js
 
