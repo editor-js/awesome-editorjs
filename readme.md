@@ -175,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
 * [Poda](https://poda.io) — Project planning and roadmaping
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
+* [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
 
 ### Open source projects
 
