@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     * [Table](#table)
     * [Code](#code)
     * [Button](#button)
+    * [Layout](#layout)
   * [Inline Tools](#inline-tools)
   * [Plugins](#plugins)
 * [Libraries](#libraries)
@@ -84,6 +85,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Button
 
 * [editorjs-button](https://github.com/kaaaaaaaaaaai/editorjs-button) — Create a button with a link and text.
+
+#### Layout
+
+* [editorjs-layout](https://github.com/hata6502/editorjs-layout) — Layout block tool for Editor.js.
 
 ### Inline Tools
 
