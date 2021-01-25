@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     * [Table](#table)
     * [Code](#code)
     * [Button](#button)
+    * [Layout](#layout)
   * [Inline Tools](#inline-tools)
   * [Plugins](#plugins)
 * [Libraries](#libraries)
