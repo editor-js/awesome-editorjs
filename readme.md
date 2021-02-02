@@ -95,13 +95,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool) — create an inline tool for (editorjs.io) with text formatting tags (eg. bold, strong, em, u, ...)
 * [editorjs-inline](https://github.com/hata6502/editorjs-inline) — Inline-Editor.js Tool for Editor.js
 * [editorjs-style](https://github.com/hata6502/editorjs-style) — Inline-style Tool for Editor.js
-* [editorjs-inspector](https://github.com/hata6502/editorjs-inspector) — DOM inspector feature for Editor.js
 
 ### Plugins
 
 * [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
 * [editorjs-undo](https://github.com/kommitters/editorjs-undo) — Undo/Redo feature for Editor.js
-* [editorjs-element](https://github.com/hata6502/editorjs-element) — Shadowed Editor.js element with iframe
 * [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - Two plugins which allow you to export/import Markdown file
 
 ## Libraries
