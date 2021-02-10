@@ -68,6 +68,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-github-gist-plugin](https://github.com/ranemihir/editorjs-github-gist-plugin) — add Github Gists to Editor.js
 * [editorjs-social-post-plugin](https://github.com/ranemihir/editorjs-social-post-plugin) — embed uploaded posts from different social media platforms to Editor.js
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) — embed images from image files, URLs or Unsplash
+* [mr8bit/carousel-editorjs](https://github.com/mr8bit/carousel-editorjs) — Carousel/Gallery Block for the Editor.js
+* [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) — LaTeX block support for EditorJS
 
 #### Table
 
