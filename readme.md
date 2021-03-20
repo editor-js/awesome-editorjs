@@ -182,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Poda](https://poda.io) — Project planning and roadmaping
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
+* [Slid](https://slid.cc) - Video note-taking tool for online learners.
 
 ### Open source projects
 
