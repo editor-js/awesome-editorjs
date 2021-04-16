@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
 * [@editorjs/checklist](https://github.com/editor-js/checklist) — checklists for your texts
+* [editorjs-sublist](https://github.com/codinova-tech/editorJs-list) — editor.js sublists
 
 #### Media & Embed
 
@@ -104,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-inline](https://github.com/hata6502/editorjs-inline) — Inline-Editor.js Tool for Editor.js
 * [editorjs-inline-template](https://github.com/hata6502/editorjs-inline-template) — Inline-template Tool for Editor.js
 * [editorjs-style](https://github.com/hata6502/editorjs-style) — Inline-style Tool for Editor.js
+* [editor-mention](https://github.com/groupher/editor-mention) — Editor.js Mention tool
 
 ### Block Tune Tools
 * [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) — Add text alignment to any Block Tools.
