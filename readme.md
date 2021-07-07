@@ -147,6 +147,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs2html](https://github.com/aswal94/editorjs2html) — Convert blocks of editorjs into html. The parser has been written in php
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) — Editor JS field for Laravel Nova
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) — Converter EditorJS JSON to HTML
+* [magento2-editorjs](https://github.com/Wamoco/magento2-editorjs) — Editor.js module for Magento 2
 
 ### Python
 
