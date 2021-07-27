@@ -189,19 +189,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
+* [Appunti](https://appunti.app) - Simple notes and actions to help organise your daily life
 * [Poda](https://poda.io) — Project planning and roadmaping
-* [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
-* [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
 * [Slid](https://slid.cc) - Video note-taking tool for online learners.
+* [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
+* [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 
 ### Open source projects
 
+* [automad.org](https://automad.org) — a flat-file content management system and template engine
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
-* [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
-* [automad.org](https://automad.org) — a flat-file content management system and template engine
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
+* [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
 
 
 <!--
