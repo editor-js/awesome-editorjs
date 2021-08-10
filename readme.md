@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) — Editor JS field for Laravel Nova
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) — Converter EditorJS JSON to HTML
 * [magento2-editorjs](https://github.com/Wamoco/magento2-editorjs) — Editor.js module for Magento 2
+* [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
 
 ### Python
 
