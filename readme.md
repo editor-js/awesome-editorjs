@@ -177,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
 * [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for [OctoberCMS](https://octobercms.com)
+* [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 
 ## Tutorials and sources
 
