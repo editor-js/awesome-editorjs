@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) — embed images from image files, URLs or Unsplash
 * [mr8bit/carousel-editorjs](https://github.com/mr8bit/carousel-editorjs) — Carousel/Gallery Block for the Editor.js
 * [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) — LaTeX block support for EditorJS
-* [rodrigoodhin/editorjs-image-gallery](https://github.com/rodrigoodhin/editorjs-image-gallery) — image gallery block
+* [rodrigoodhin/editorjs-image-gallery](https://gitlab.com/rodrigoodhin/editorjs-image-gallery) — image gallery block
 
 #### Table
 
@@ -165,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [micheleriva/editorjs-go](https://github.com/micheleriva/editorjs-go) — Fast markdown/HTML generator for Editor.js
 * [davidscottmills/goeditorjs](https://github.com/davidscottmills/goeditorjs) - An extensible HTML/markdown generator for editorjs.
+* [rodrigoodhin/go-editorjs-parser](https://gitlab.com/rodrigoodhin/go-editorjs-parser) — A Golang library which converts Editor.js JSON output to pure Markdown or HTML.
 
 ### Swift
 
