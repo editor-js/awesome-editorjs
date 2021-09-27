@@ -155,7 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Python
 
-* [django-editorjs-fields](https://github.com/2ik/django-editorjs-fields) — Django admin plugin for using Editor.js
+* [django-editorjs-fields](https://github.com/2ik/django-editorjs-fields) — Editor.js integration for Django
 
 ### Ruby
 
