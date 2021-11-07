@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Ruby
 
 * [editor_js](https://rubygems.org/gems/editor_js) — it validates, parses, and renders content from editorjs
+* [render_editorjs](https://github.com/ceritium/render_editorjs) — A modular and customizable Ruby renderer for Editor.js
 
 ### Go
 
