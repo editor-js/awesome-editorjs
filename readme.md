@@ -108,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-inline-template](https://github.com/hata6502/editorjs-inline-template) — Inline-template Tool for Editor.js
 * [editorjs-style](https://github.com/hata6502/editorjs-style) — Inline-style Tool for Editor.js
 * [editorjs-change-case](https://github.com/maziyank/editorjs-change-case) — change case Tool for the Editor.js
-* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) — Tool for adding a tooltip in some text in EditorJS
+* [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) — Tool for adding tooltips in EditorJS
 
 ### Block Tune Tools
 
