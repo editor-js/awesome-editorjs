@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for [OctoberCMS](https://octobercms.com)
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Admin Block Editor](https://pushword.piedweb.com/extension/admin-block-editor) - Admin plugin for [Pushword CMS](https://pushword.piedweb.com) (based on symfony)
+* [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Add an Editor.js interface to [Directus](https://github.com/directus/directus)
 
 ## Tutorials and sources
 
