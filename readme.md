@@ -131,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Vue.js
 
 * [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) — editor.js for Vue users 
+* [vue-editorjs](https://github.com/changjunhao/vue-editorjs) — editor.js for Vue 3.x users 
 
 #### React
 
