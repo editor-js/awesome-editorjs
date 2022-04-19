@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
 * [@editorjs/nested-list](https://github.com/editor-js/nested-list) — Multi-leveled lists
 * [@editorjs/checklist](https://github.com/editor-js/checklist) — checklists for your texts
+* [@calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist) — Nested Checklists for your texts
 
 #### Media & Embed
 
