@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
 * [@editorjs/nested-list](https://github.com/editor-js/nested-list) — Multi-leveled lists
 * [@editorjs/checklist](https://github.com/editor-js/checklist) — checklists for your texts
+* [@calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist) — Nested Checklists for your texts
 
 #### Media & Embed
 
@@ -86,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editor-js-code](https://github.com/paraswaykole/editor-js-code) — a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles
 * [editorjs-codemirror](https://github.com/alexiej/editorjs-codemirror) — Code Mirror for the Editor.js allows to include code examples in your articles.
 * [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
+* [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
 
 #### Button
 
