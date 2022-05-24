@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Layout
 
 * [editorjs-layout](https://github.com/hata6502/editorjs-layout) — Layout block tool for Editor.js.
+* [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) — Multi-Column Layout tool, using nested editorJs Instances
 
 ### Inline Tools
 
