@@ -75,6 +75,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [mr8bit/carousel-editorjs](https://github.com/mr8bit/carousel-editorjs) — Carousel/Gallery Block for the Editor.js
 * [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) — LaTeX block support for EditorJS
 * [rodrigoodhin/editorjs-image-gallery](https://gitlab.com/rodrigoodhin/editorjs-image-gallery) — image gallery block
+* [naduma/editorjs-mermaid](https://github.com/naduma/editorjs-mermaid) — Mermaid Block for Editor.js
 
 #### Table
 
