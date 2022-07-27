@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/warning](https://github.com/editor-js/warning) — warning tool can be used as editorials notifications or appeals
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) — delimiter tool
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) - tool for adding colorful alert messages
+* [header-with-alignment](https://github.com/wandersonsousa/header-with-alignment) - header block base tool with alignment control
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
 * [header-with-anchor](https://github.com/Aleksst95/header-with-anchor) - header block with the ability to set an anchor text
 * [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) - tool for nesting blocks in a toggleable element
