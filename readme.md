@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) — LaTeX block support for EditorJS
 * [rodrigoodhin/editorjs-image-gallery](https://gitlab.com/rodrigoodhin/editorjs-image-gallery) — image gallery block
 * [naduma/editorjs-mermaid](https://github.com/naduma/editorjs-mermaid) — Mermaid Block for Editor.js
+* [editorjs-image-with-source](https://github.com/VolgaIgor/editorjs-image-with-source) — fork of @editorjs/image repository with added input field for image source
 
 #### Table
 
@@ -119,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune) — Add text alignment to any Block Tools.
 * [editorjs-anchor](https://github.com/VolgaIgor/editorjs-anchor) — Add anchor field to any Block Tools
+* [editorjs-notice](https://github.com/VolgaIgor/editorjs-notice) — Marking blocks as hidden or informational with a caption for the first
 
 ### Plugins
 
