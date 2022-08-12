@@ -202,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
 
+* [Notice.studio](https://notice.studio) - CMS & component editor that blends in your website
 * [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
 * [Appunti](https://appunti.app) - Simple notes and actions to help organise your daily life
 * [Poda](https://poda.io) — Project planning and roadmaping
