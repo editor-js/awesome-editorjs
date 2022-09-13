@@ -212,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Open source projects
 
+* [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js 
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
