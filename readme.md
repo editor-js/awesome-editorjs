@@ -54,7 +54,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
 * [header-with-anchor](https://github.com/Aleksst95/header-with-anchor) - header block with the ability to set an anchor text
 * [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) - tool for nesting blocks in a toggleable element
-* [@sotaproject/strikethrough](https://www.npmjs.com/package/@sotaproject/strikethrough) - tool for strikethrough text
 
 #### Lists
 
@@ -117,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-style](https://github.com/hata6502/editorjs-style) — Inline-style Tool for Editor.js
 * [editorjs-change-case](https://github.com/maziyank/editorjs-change-case) — change case Tool for the Editor.js
 * [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) — Tool for adding tooltips in EditorJS
+* [@sotaproject/strikethrough](https://www.npmjs.com/package/@sotaproject/strikethrough) - tool for strikethrough text
 
 ### Block Tune Tools
 
