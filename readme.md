@@ -216,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
+* [MarsX](https://www.marsx.dev/) - LowCode platform based on MicroApps
 
 ### Open source projects
 
