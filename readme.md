@@ -227,6 +227,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
 * [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
+* [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 
 
 <!--
