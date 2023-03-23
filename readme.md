@@ -217,6 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
 * [Cai](https://cai.so) - AI Writer, Content Generator & Writing Assistant
+* [MarsX](https://www.marsx.dev) - devtool that merges ProCode + NoCode + AI on top of microapps
 
 ### Open source projects
 
