@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Python
 
 * [django-editorjs-fields](https://github.com/2ik/django-editorjs-fields) — Editor.js integration for Django
+* [pyEditorJS](https://github.com/SKevo18/pyEditorJS) - A very simple Editor.js parser written in pure Python
 
 ### Ruby
 
