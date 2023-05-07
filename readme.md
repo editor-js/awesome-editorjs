@@ -216,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
 * [Cai](https://cai.so) - AI Writer, Content Generator & Writing Assistant
+* [Chronopin](https://chronopin.com) - Track the release dates of your favorite games and interests. Also share, review, and comment on your posts with a like-minded community.
 
 ### Open source projects
 
