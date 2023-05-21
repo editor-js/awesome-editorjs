@@ -224,6 +224,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
+* [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 * [EvaNotebook](https://notebook.sanchezcarlosjr.com/) - A collaborative peer-to-peer notebook for Web Technologies
 
 <!--
