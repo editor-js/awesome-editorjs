@@ -70,8 +70,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
 * [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content
 * [simple-image-editorjs](https://github.com/PaulKinlan/simple-image) — fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage
-* [editorjs-github-gist-plugin](https://github.com/ranemihir/editorjs-github-gist-plugin) — add Github Gists to Editor.js
-* [editorjs-social-post-plugin](https://github.com/ranemihir/editorjs-social-post-plugin) — embed uploaded posts from different social media platforms to Editor.js
 * [editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image) — embed images from image files, URLs or Unsplash
 * [mr8bit/carousel-editorjs](https://github.com/mr8bit/carousel-editorjs) — Carousel/Gallery Block for the Editor.js
 * [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) — LaTeX block support for EditorJS
@@ -159,15 +157,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [orchid-editorjs-field](https://github.com/AlexSabur/orchid-editorjs-field)
 * [yii2-editorjs-widget](https://github.com/zakurdaev/yii2-editorjs-widget) — Editor.js widget for Yii 2
 * [EditorjsBundle](https://github.com/tbmatuka/EditorjsBundle) — Symfony bundle for Editor.js
-* [editorjs2html](https://github.com/aswal94/editorjs2html) — Convert blocks of editorjs into html. The parser has been written in php
 * [nova-editor-js](https://github.com/advoor/nova-editor-js) — Editor JS field for Laravel Nova
 * [codex-to-html](https://github.com/Archakov06/codex-to-html) — Converter EditorJS JSON to HTML
 * [magento2-editorjs](https://github.com/Wamoco/magento2-editorjs) — Editor.js module for Magento 2
 * [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
+* [rahmanramsi/filament-editorjs](https://filamentphp.com/plugins/msuhels-editorjs) - Editor JS for [filamentphp](https://filamentphp.com)
 
 ### Python
 
 * [django-editorjs-fields](https://github.com/2ik/django-editorjs-fields) — Editor.js integration for Django
+* [pyEditorJS](https://github.com/SKevo18/pyEditorJS) - A very simple Editor.js parser written in pure Python
 
 ### Ruby
 
@@ -209,14 +208,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [beemy](https://www.writebeemy.com/) - Dedicated blog builder to better manage content
 * [Notice.studio](https://notice.studio) - CMS & component editor that blends in your website
-* [⟑ djit.su](https://djit.su) — hyper-reactive notebook interface
-* [Appunti](https://appunti.app) - Simple notes and actions to help organise your daily life
 * [Poda](https://poda.io) — Project planning and roadmaping
 * [Slid](https://slid.cc) - Video note-taking tool for online learners.
 * [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
 * [Cai](https://cai.so) - AI Writer, Content Generator & Writing Assistant
+* [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 
 ### Open source projects
 
@@ -226,9 +224,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
 * [CodeX Notes](https://github.com/codex-team/codex.notes) — crossplatform desktop notes application based on Electron and Editor.js
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
-* [OmniaWrite.com](https://OmniaWrite.com) — a text editor engineered for creative writing
 * [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
-
+* [EvaNotebook](https://notebook.sanchezcarlosjr.com/) - A collaborative peer-to-peer notebook for Web Technologies
 
 <!--
 ### Apps/Websites
