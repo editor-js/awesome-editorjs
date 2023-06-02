@@ -211,6 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Poda](https://poda.io) — Project planning and roadmaping
 * [Slid](https://slid.cc) - Video note-taking tool for online learners.
 * [Unicorn Platform](https://unicornplatform.com/) - Create landing pages and write blogs.
+* [MarsX](https://www.marsx.dev/) - AI/NoCode/ProCode builder.
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
 * [Cai](https://cai.so) - AI Writer, Content Generator & Writing Assistant
