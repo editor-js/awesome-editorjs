@@ -116,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip) — Tool for adding tooltips in EditorJS
 * [@sotaproject/strikethrough](https://www.npmjs.com/package/@sotaproject/strikethrough) - tool for strikethrough text
 * [editorjs-text-color-plugin](https://www.npmjs.com/package/editorjs-text-color-plugin) - Inline tool for coloring/marking selected text with customized colors
+* [VolgaIgor/editorjs-annotation](https://github.com/VolgaIgor/editorjs-annotation) — Tool for adding an extended annotation to any text in EditorJS blocks
 
 ### Block Tune Tools
 
