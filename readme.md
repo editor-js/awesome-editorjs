@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-codemirror](https://github.com/alexiej/editorjs-codemirror) — Code Mirror for the Editor.js allows to include code examples in your articles.
 * [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
 * [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
+* [ace-code-editorjs](https://github.com/hsnfirdaus/ace-code-editorjs) — Ace Code Editor block for the Editor.js with language selection.
 
 #### Button
 
