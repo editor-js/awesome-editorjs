@@ -215,7 +215,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## Projects Using Editor.js
 
 👉 [Add your project!](https://github.com/editor-js/awesome-editorjs/edit/master/readme.md)
-
+* [IrenSystem](https://irensystem.ru) -  System for business - allows you to work with clients, managers, contractors and suppliers
 * [beemy](https://www.writebeemy.com/) - Dedicated blog builder to better manage content
 * [Notice.studio](https://notice.studio) - CMS & component editor that blends in your website
 * [Poda](https://poda.io) — Project planning and roadmaping
