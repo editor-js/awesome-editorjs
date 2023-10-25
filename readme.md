@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
 * [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
 * [ace-code-editorjs](https://github.com/hsnfirdaus/ace-code-editorjs) — Ace Code Editor block for the Editor.js with language selection.
+* [@rxpm/editor-js-code](https://github.com/rajatxs/editor-js-code) - Custom Code Plugin adds code examples to articles with a language dropdown.
 
 #### Button
 
