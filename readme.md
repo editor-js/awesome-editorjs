@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Angular
 
 * [@tinynodes/ngx-editorjs](https://www.npmjs.com/package/@tinynodes/ngx-editorjs) — This library provides Angular support for EditorJS.
+
 #### Svelte
 
 * [sveditorjs](https://github.com/pouchcms/sveditorjs) — This library provides svelte support for EditorJS.
