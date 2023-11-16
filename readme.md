@@ -80,6 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [naduma/editorjs-mermaid](https://github.com/naduma/editorjs-mermaid) — Mermaid Block for Editor.js
 * [VolgaIgor/editorjs-gallery](https://github.com/VolgaIgor/editorjs-gallery) — Gallery Block with multiloading and sorting
 * [AnatoliyKozlov/editorjs-telegram-post](https://github.com/AnatoliyKozlov/editorjs-telegram-post) — Telegram Post widget
+* [renanrider/editorjs-audio-player](https://github.com/renanrider/editorjs-audio-player) - Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.
 
 #### Table
 
