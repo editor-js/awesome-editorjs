@@ -149,7 +149,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Vue.js
 
-* [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) — editor.js for Vue users 
+* [Editorjs.vue](https://gist.github.com/bettysteger/d7f2b1a52bb1c23a0c24f3a9ff5832d9) - Vue 3 SFC for Editor.js using v-model with custom Vue component using Video.js
+* [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) — editor.js for Vue users
 
 #### React
 
