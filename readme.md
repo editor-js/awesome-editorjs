@@ -8,35 +8,37 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ## Contents
 
-* [Tools](#tools)
-  * [Block Tools](#block-tools)
-    * [Text and typography](#text-and-typography)
-    * [Lists](#lists)
-    * [Media & Embed](#media--embed)
-    * [Table](#table)
-    * [Code](#code)
-    * [Button](#button)
-    * [Layout](#layout)
-  * [Inline Tools](#inline-tools)
-  * [Block Tune Tools](#block-tune-tools)
-  * [Plugins](#plugins)
-* [Libraries](#libraries)
-  * [JavaScript](#javascript)
-    * [Vue.js](#vuejs)
-    * [React](#react)
-    * [React Native](#react-native)
-    * [Angular](#angular)
-    * [Svelte](#svelte)
-  * [PHP](#php)
-  * [Python](#python)
-  * [Ruby](#ruby)
-  * [Go](#go)
-  * [Swift](#swift)
-  * [Kotlin](#kotlin)
-  * [Plugins for CMS](#plugins-for-cms)
-* [Tutorials and sources](#tutorials-and-sources)
-* [Projects Using Editor.js](#projects-using-editorjs)
-  * [Open source projects](#open-source-projects)
+- [Awesome Editor.js ](#awesome-editorjs-)
+  - [Contents](#contents)
+  - [Tools](#tools)
+    - [Block Tools](#block-tools)
+      - [Text and typography](#text-and-typography)
+      - [Lists](#lists)
+      - [Media \& Embed](#media--embed)
+      - [Table](#table)
+      - [Code](#code)
+      - [Button](#button)
+      - [Layout](#layout)
+    - [Inline Tools](#inline-tools)
+    - [Block Tune Tools](#block-tune-tools)
+    - [Plugins](#plugins)
+  - [Libraries](#libraries)
+    - [JavaScript](#javascript)
+      - [Vue.js](#vuejs)
+      - [React](#react)
+      - [React Native](#react-native)
+      - [Angular](#angular)
+      - [Svelte](#svelte)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Go](#go)
+    - [Swift](#swift)
+    - [Kotlin](#kotlin)
+    - [Plugins for CMS](#plugins-for-cms)
+  - [Tutorials and sources](#tutorials-and-sources)
+  - [Projects Using Editor.js](#projects-using-editorjs)
+    - [Open source projects](#open-source-projects)
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
 
@@ -146,6 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-parser](https://github.com/MichaelMikeJones/editorjs-parser) — a library to parse Editorjs clean data to HTML in Node and Browser
 * [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
 * [editorjs-to-html](https://github.com/vorjyga/editorjs-to-html) — editorjs format parser to html with saving editorjs markup format
+* [editor-js-component](https://github.com/WebJeffery/editor-js-component) - an editorjs library that can use Vue and React frameworks
 
 #### Vue.js
 
