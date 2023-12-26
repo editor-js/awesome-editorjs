@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-parser](https://github.com/MichaelMikeJones/editorjs-parser) — a library to parse Editorjs clean data to HTML in Node and Browser
 * [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
 * [editorjs-to-html](https://github.com/vorjyga/editorjs-to-html) — editorjs format parser to html with saving editorjs markup format
+* [editor-js-component](https://github.com/WebJeffery/editor-js-component) - an editorjs library that can use Vue and React frameworks
 
 #### Vue.js
 
