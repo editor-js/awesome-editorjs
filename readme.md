@@ -184,6 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-symfony-parser-bundle](https://github.com/SyntaxPhoenix/editorjs-symfony-parser-bundle) — Editor.js-Bundle for Symfony to parse blocks created with Editor.js
 * [rahmanramsi/filament-editorjs](https://filamentphp.com/plugins/msuhels-editorjs) - Editor JS for [filamentphp](https://filamentphp.com)
 * [bumpcore/editor.php](https://github.com/bumpcore/editor.php) - An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.
+* [editorjs-simple-html-parser](https://github.com/Edd-G/editorjs-simple-html-parser) - 2 way parser for Editor.js: JSON to HTML & HTML to JSON
 
 ### Python
 
@@ -216,6 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
 * [Admin Block Editor](https://pushword.piedweb.com/extension/admin-block-editor) - Admin plugin for [Pushword CMS](https://pushword.piedweb.com) (based on symfony)
 * [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Add an Editor.js interface to [Directus](https://github.com/directus/directus)
+* [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 
 ## Tutorials and sources
 
