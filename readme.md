@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [AnatoliyKozlov/editorjs-telegram-post](https://github.com/AnatoliyKozlov/editorjs-telegram-post) — Telegram Post widget
 * [renanrider/editorjs-audio-player](https://github.com/renanrider/editorjs-audio-player) - Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
+* [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
 
 #### Table
 
