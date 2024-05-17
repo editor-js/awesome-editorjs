@@ -51,6 +51,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/quote](https://github.com/editor-js/quote) — tool for quotes
 * [@editorjs/warning](https://github.com/editor-js/warning) — warning tool can be used as editorials notifications or appeals
 * [@editorjs/delimiter](https://github.com/editor-js/delimiter) — delimiter tool
+* [@coolbytes/editorjs-delimiter](https://github.com/CoolBytesIN/editorjs-delimiter) — Improved delimiter block tool (Includes more styles - `dash` and `line`)
 * [editorjs-alert](https://github.com/vishaltelangre/editorjs-alert) - tool for adding colorful alert messages
 * [header-with-alignment](https://github.com/wandersonsousa/header-with-alignment) - header block base tool with alignment control
 * [paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment) - text block base tool with alignment control. FYI [editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
@@ -136,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [VolgaIgor/editorjs-anchor](https://github.com/VolgaIgor/editorjs-anchor) — Add anchor field to any Block Tools
 * [VolgaIgor/editorjs-notice](https://github.com/VolgaIgor/editorjs-notice) — Highlight or hide with caption any Editor.js block
 * [editorjs-indent-tune](https://www.npmjs.com/package/editorjs-indent-tune) - Block Tune for indenting any type of block
+* [@coolbytes/editorjs-anchor](https://github.com/CoolBytesIN/editorjs-anchor) — Block Tune to toggle Anchor for any block type
 
 ### Plugins
 
