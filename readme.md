@@ -67,7 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist) — Nested Checklists for your texts
 
 #### Media & Embed 
-* [local-video-browsing](https://github.com/KFTco/local-video-browsing-editojs) — Browse Local Videos
+* [local-video-browsing](https://github.com/ehsan-soleimanain/local-video-browsing-editojs) — Browse Local Videos
 * [@editorjs/image](https://github.com/editor-js/image) — image block
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) — add images to article by pasting image URLs. no server-side uploader required
 * [@editorjs/link](https://github.com/editor-js/link) — link with preview
