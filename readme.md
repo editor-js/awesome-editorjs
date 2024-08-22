@@ -97,7 +97,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editor-js-code](https://github.com/paraswaykole/editor-js-code) — a fork of Code Tool for the Editor.js that allows to include code examples along with language codes that are supported by PrismJs in your articles
 * [editorjs-codemirror](https://github.com/alexiej/editorjs-codemirror) — Code Mirror for the Editor.js allows to include code examples in your articles.
 * [@bomdi/codebox](https://github.com/BomdiZane/codebox) — code syntax highlighting tool for Editor.js
-* [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
 * [ace-code-editorjs](https://github.com/hsnfirdaus/ace-code-editorjs) — Ace Code Editor block for the Editor.js with language selection.
 * [@rxpm/editor-js-code](https://github.com/rajatxs/editor-js-code) - Custom Code Plugin adds code examples to articles with a language dropdown.
 
@@ -141,7 +140,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
 * [editorjs-undo](https://github.com/kommitters/editorjs-undo) — Undo/Redo feature for Editor.js
-* [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - Two plugins which allow you to export/import Markdown file
 
 ## Libraries
 
@@ -219,8 +217,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
 * [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for [OctoberCMS](https://octobercms.com)
-* [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
-* [Admin Block Editor](https://pushword.piedweb.com/extension/admin-block-editor) - Admin plugin for [Pushword CMS](https://pushword.piedweb.com) (based on symfony)
 * [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Add an Editor.js interface to [Directus](https://github.com/directus/directus)
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
 
@@ -245,7 +241,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [MarsX](https://www.marsx.dev/) - AI/NoCode/ProCode builder.
 * [Walkthrough](http://walkthrough.so/) - Write great codelab style tutorials.
 * [Drafts](https://drafts.surge.sh/) - Web based text editor for writing quick drafts
-* [Cai](https://cai.so) - AI Writer, Content Generator & Writing Assistant
 * [Chronopin](https://chronopin.com) - Track the release dates of your favorite games and interests. Also share, review, and comment on your posts with a like-minded community.
 * [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
