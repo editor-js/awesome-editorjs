@@ -138,7 +138,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [VolgaIgor/editorjs-notice](https://github.com/VolgaIgor/editorjs-notice) — Highlight or hide with caption any Editor.js block
 * [editorjs-indent-tune](https://www.npmjs.com/package/editorjs-indent-tune) - Block Tune for indenting any type of block
 * [@coolbytes/editorjs-anchor](https://github.com/CoolBytesIN/editorjs-anchor) — Block Tune to toggle Anchor for any block type
-
+* [editor-js-alignment-tune](https://github.com/Diesnei/editor-js-alignment-tune) — Block Tune to add cutomizable text alignment to any Block Tool
+  
 ### Plugins
 
 * [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
