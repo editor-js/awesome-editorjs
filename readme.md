@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) - React component to render blocks to semantic HTML5 tags
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) support
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) components
 
 #### React Native
 
