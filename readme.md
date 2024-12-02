@@ -40,6 +40,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
 
+
+
+## Ask AI
+
+[Awesome-Editorjs](https://codeparrot.ai/oracle?owner=editor-js&repo=awesome-editorjs) AI will help you understand this repository better. 
+
 ## Tools
 
 ### Block Tools
