@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-aitext](https://github.com/etozhealkhipce/editorjs-aitext) - ai suggestions tool based on paragraph tool and openai node lib
 * [title-editorjs](https://github.com/EmersonMatias/title-editorjs) - Provides Title (headings) Blocks for the Editor.js with various settings like H1...H6, colors (red, pink, purple...) and text-align. It is compatible with react and typescript, without causing typing errors.
 * [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) - Color Picker Tool
+* [@cychann/editorjs-quote](https://github.com/cychann/editorjs-quote) - Improved Quote Block Tool (Includes more quote styles)
 
 #### Lists
 
