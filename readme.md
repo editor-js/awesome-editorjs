@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Furison-Tech/editorjs-audio](https://github.com/Furison-Tech/editorjs-audio) - HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
+* [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 
 #### Table
 
@@ -154,7 +155,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-undo](https://github.com/kommitters/editorjs-undo) — Undo/Redo feature for Editor.js
 * [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - Two plugins which allow you to export/import Markdown file
 * [editorjs-multiblock-selection-plugin](https://www.npmjs.com/package/editorjs-multiblock-selection-plugin) - Plugin to extend your inline tools to work in multiblock selection
-* [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 
 ## Libraries
 
