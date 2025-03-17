@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Furison-Tech/editorjs-audio](https://github.com/Furison-Tech/editorjs-audio) - HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
+* [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 
 #### Table
 
