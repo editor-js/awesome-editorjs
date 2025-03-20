@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-text-color-plugin](https://www.npmjs.com/package/editorjs-text-color-plugin) - Inline tool for coloring/marking selected text with customized colors
 * [VolgaIgor/editorjs-annotation](https://github.com/VolgaIgor/editorjs-annotation) — Tool for adding an extended annotation to any text in EditorJS blocks
 * [editorjs-comment](https://github.com/osain-az/editorjs-comment) - Tool that allows you to add comment to editorjs
+* [editorjs-emoji-picker-tool](https://github.com/PierreLebedel/editorjs-emoji-picker-tool) - Tool to search and insert an emoji into text (using [emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element))
 
 ### Block Tune Tools
 
