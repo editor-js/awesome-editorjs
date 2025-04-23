@@ -268,6 +268,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
+* [T-Notes](https://notes.tcode.xin) - A modern platform combining notes, cloud storage, and AI tools to boost productivity and organization.
 
 ### Open source projects
 
