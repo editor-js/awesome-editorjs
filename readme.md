@@ -120,7 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editorjs-layout](https://github.com/hata6502/editorjs-layout) — Layout block tool for Editor.js.
 * [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) — Multi-Column Layout tool, using nested editorJs Instances
-* [@aaaalrashd/editorjs-columns](https://github.com/aaaalrashd/editorjs-columns) — Tool supported 4 cols with image, nested, and ratio columns for Editor.js.
+* [@aaaalrashd/editorjs-columns](https://www.npmjs.com/package/@aaaalrashd/editorjs-columns) — Tool supported 4 cols with image, nested, and ratio columns for Editor.js.
 
 ### Inline Tools
 
