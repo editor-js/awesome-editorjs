@@ -208,6 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [rahmanramsi/filament-editorjs](https://filamentphp.com/plugins/msuhels-editorjs) - Editor JS for [filamentphp](https://filamentphp.com)
 * [bumpcore/editor.php](https://github.com/bumpcore/editor.php) - An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.
 * [editorjs-simple-html-parser](https://github.com/Edd-G/editorjs-simple-html-parser) - 2 way parser for Editor.js: JSON to HTML & HTML to JSON
+* [UX Editor](https://github.com/pentiminax/ux-editor) - Editor.js integration for Symfony
 
 ### Python
 
@@ -268,6 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
+* [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
 * [T-Notes](https://notes.tcode.xin) - A modern platform combining notes, cloud storage, and AI tools to boost productivity and organization.
 
 ### Open source projects
