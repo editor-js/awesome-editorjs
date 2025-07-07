@@ -270,6 +270,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
 * [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
+* [FlyonUI](https://flyonui.com) -  An open-source component library for Tailwind CSS, offering pre-built UI elements, interactive plugins, and seamless framework integration.
 
 ### Open source projects
 
