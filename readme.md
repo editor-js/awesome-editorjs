@@ -40,6 +40,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
 
+
+
+## Ask AI
+
+[Awesome-Editorjs](https://codeparrot.ai/oracle?owner=editor-js&repo=awesome-editorjs) AI will help you understand this repository better. 
+
 ## Tools
 
 ### Block Tools
@@ -59,6 +65,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block) - tool for nesting blocks in a toggleable element
 * [editorjs-aitext](https://github.com/etozhealkhipce/editorjs-aitext) - ai suggestions tool based on paragraph tool and openai node lib
 * [title-editorjs](https://github.com/EmersonMatias/title-editorjs) - Provides Title (headings) Blocks for the Editor.js with various settings like H1...H6, colors (red, pink, purple...) and text-align. It is compatible with react and typescript, without causing typing errors.
+* [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) - Color Picker Tool
+* [@cychann/editorjs-quote](https://github.com/cychann/editorjs-quote) - Improved Quote Block Tool (Includes more quote styles)
 
 #### Lists
 
@@ -83,8 +91,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [VolgaIgor/editorjs-gallery](https://github.com/VolgaIgor/editorjs-gallery) — Gallery Block with multiloading and sorting
 * [AnatoliyKozlov/editorjs-telegram-post](https://github.com/AnatoliyKozlov/editorjs-telegram-post) — Telegram Post widget
 * [renanrider/editorjs-audio-player](https://github.com/renanrider/editorjs-audio-player) - Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.
+* [Furison-Tech/editorjs-audio](https://github.com/Furison-Tech/editorjs-audio) - HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
+* [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 
 #### Table
 
@@ -129,6 +139,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-text-color-plugin](https://www.npmjs.com/package/editorjs-text-color-plugin) - Inline tool for coloring/marking selected text with customized colors
 * [VolgaIgor/editorjs-annotation](https://github.com/VolgaIgor/editorjs-annotation) — Tool for adding an extended annotation to any text in EditorJS blocks
 * [editorjs-comment](https://github.com/osain-az/editorjs-comment) - Tool that allows you to add comment to editorjs
+* [editorjs-inline-hotkey](https://github.com/Stuhl/editorjs-inline-hotkey) - Inline Tool that marks text as Hotkey
+* [editor-js-tg-spoiler](https://github.com/izotikov/editor-js-tg-spoiler) - Inline tool for adding spoilers to text fragments for Editor.js, supporting export to telegram.
 
 ### Block Tune Tools
 
@@ -138,7 +150,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [VolgaIgor/editorjs-notice](https://github.com/VolgaIgor/editorjs-notice) — Highlight or hide with caption any Editor.js block
 * [editorjs-indent-tune](https://www.npmjs.com/package/editorjs-indent-tune) - Block Tune for indenting any type of block
 * [@coolbytes/editorjs-anchor](https://github.com/CoolBytesIN/editorjs-anchor) — Block Tune to toggle Anchor for any block type
-
+* [editor-js-alignment-tune](https://github.com/Diesnei/editor-js-alignment-tune) — Block Tune to add cutomizable text alignment to any Block Tool
+  
 ### Plugins
 
 * [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
@@ -167,10 +180,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-blocks-react-renderer](https://github.com/moveyourdigital/editorjs-blocks-react-renderer) - React component to render blocks to semantic HTML5 tags
 * [editorjs-react](https://github.com/etozhealkhipce/editorjs-react) — Editor.js React parser to parse Editor.js data to JSX components
 * [editorjs-react-parser](https://github.com/cevinw/editorjs-react-parser) - Parse Editor.js data to semantic html tags with syntax highlighting and [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) support
+* [editorjs-antd-renderer](https://github.com/gosvoh/editorjs-antd-renderer) — Render Editor.js data to React [Ant Design](https://github.com/ant-design/ant-design) components
 
 #### React Native
 
 * [editorjs-viewer-native](https://github.com/Hidekih/editorjs-viewer-native) — A React Native solution to parse outputData generated by Editor.Js
+* [editorjs-renderer-react-native](https://www.npmjs.com/package/@biblebytes/editorjs-renderer-react-native) — A React Native renderer for EditorJS JSON
 
 #### Angular
 
@@ -193,6 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [rahmanramsi/filament-editorjs](https://filamentphp.com/plugins/msuhels-editorjs) - Editor JS for [filamentphp](https://filamentphp.com)
 * [bumpcore/editor.php](https://github.com/bumpcore/editor.php) - An advanced library for parsing and manipulating Editor.js output using either vanilla PHP or Laravel.
 * [editorjs-simple-html-parser](https://github.com/Edd-G/editorjs-simple-html-parser) - 2 way parser for Editor.js: JSON to HTML & HTML to JSON
+* [UX Editor](https://github.com/pentiminax/ux-editor) - Editor.js integration for Symfony
 
 ### Python
 
@@ -253,6 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Contractify](https://contractify.io) - Contract management software for e-signing, managing and automating all your contracts online
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
+* [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
 
 ### Open source projects
 
