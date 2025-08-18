@@ -228,6 +228,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) - Android framework for parsing and rendering blocks
 
+### Java
+* [EditorjsToMarkdown](https://github.com/PiuPiue/EditorjsToMarkdown) - A Java-based tool that parses Editor.js JSON into Markdown
+
 ### Plugins for CMS
 
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
