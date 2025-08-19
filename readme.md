@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
 * [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 * [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) - Multi-image block with advanced drag-and-drop functionality
+* [editorjs-gifs](https://github.com/jingjunm/editorjs-gif) - Add GIFs to your editorjs setup
 
 #### Table
 
@@ -275,6 +276,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Tulsk](https://tulsk.io) - AI-powered project management tool designed to simplify your workflow.
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
 * [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
+* [OddsRabbit](https://www.oddsrabbit.com/) - Community Platform For Creator - Alternative to Reddit, Patreon, and Substack
+  
 
 ### Open source projects
 
