@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
 * [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
+* [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) - Multi-image block with advanced drag-and-drop functionality
 * [editorjs-gifs](https://github.com/jingjunm/editorjs-gif) - Add GIFs to your editorjs setup
 
 #### Table
@@ -121,6 +122,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 * [editorjs-layout](https://github.com/hata6502/editorjs-layout) — Layout block tool for Editor.js.
 * [@calumk/editorjs-columns](https://github.com/calumk/editorjs-columns) — Multi-Column Layout tool, using nested editorJs Instances
+* [editorjs-collapsible-block](https://github.com/sebmeister2077/editorjs-accordion) — Accordion-like block tool that manages collapsing of the next blocks.
 
 ### Inline Tools
 
@@ -234,6 +236,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Kotlin
 
 * [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) - Android framework for parsing and rendering blocks
+
+### Java
+* [EditorjsToMarkdown](https://github.com/PiuPiue/EditorjsToMarkdown) - A Java-based tool that parses Editor.js JSON into Markdown
 
 ### Plugins for CMS
 
