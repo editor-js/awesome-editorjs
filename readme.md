@@ -239,6 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Java
 * [EditorjsToMarkdown](https://github.com/PiuPiue/EditorjsToMarkdown) - A Java-based tool that parses Editor.js JSON into Markdown
+* [MarkdownToEditorjs](https://github.com/PiuPiue/MarkdownToEditorjs) - A Java-based tool that parses Markdown text to Editor.js JSON
 
 ### Plugins for CMS
 
