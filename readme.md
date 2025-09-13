@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [title-editorjs](https://github.com/EmersonMatias/title-editorjs) - Provides Title (headings) Blocks for the Editor.js with various settings like H1...H6, colors (red, pink, purple...) and text-align. It is compatible with react and typescript, without causing typing errors.
 * [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) - Color Picker Tool
 * [@cychann/editorjs-quote](https://github.com/cychann/editorjs-quote) - Improved Quote Block Tool (Includes more quote styles)
+* [@skchawala/editorjs-text-style](https://github.com/skchawala/editorjs-text-style) - inline tool for customizing font size and font family — lightweight, configurable, and easy to use.
 
 #### Lists
 
