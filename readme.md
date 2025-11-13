@@ -104,6 +104,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/table](https://github.com/editor-js/table) — table constructor tool
 * [editorjs-table](https://github.com/4rw44z/editorjs-table) - Table contructor tool with great editing row/column options.
 
+#### Chart
+
+* [editorjs-chartjs](https://github.com/Alkosik/editorjs-chartjs) - Chart constructor tool using Chart.js
+
 #### Code
 
 * [@editorjs/code](https://github.com/editor-js/code) — tools for code examples
