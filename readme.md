@@ -233,6 +233,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [micheleriva/editorjs-go](https://github.com/micheleriva/editorjs-go) — Fast markdown/HTML generator for Editor.js
 * [davidscottmills/goeditorjs](https://github.com/davidscottmills/goeditorjs) - An extensible HTML/markdown generator for editorjs.
 * [rodrigoodhin/go-editorjs-parser](https://gitlab.com/rodrigoodhin/go-editorjs-parser) — A Golang library which converts Editor.js JSON output to pure Markdown or HTML.
+* [christiandenisi/editorjs-go](https://github.com/christiandenisi/editorjs-go) — Type-safe, plugin-based Editor.js parser in Go with HTML/Markdown rendering.
 
 ### Swift
 
