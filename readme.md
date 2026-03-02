@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 * [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) - Multi-image block with advanced drag-and-drop functionality
 * [editorjs-gifs](https://github.com/jingjunm/editorjs-gif) - Add GIFs to your editorjs setup
+* [editorjs-image-crop-resize](https://github.com/mohdaffann/editorjs-image-crop-resize) - image tool with crop, resize, rotate, and flip (X/Y axis) support powered by Cropper.js
 
 #### Table
 
