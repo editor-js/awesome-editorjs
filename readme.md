@@ -40,11 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <!-- * [Apps / Websites](#apps-websites) -->
 <!-- * [Commercial Products](#commercial-products) -->
 
-
-
 ## Ask AI
 
-[Awesome-Editorjs](https://codeparrot.ai/oracle?owner=editor-js&repo=awesome-editorjs) AI will help you understand this repository better. 
+[Awesome-Editorjs](https://codeparrot.ai/oracle?owner=editor-js&repo=awesome-editorjs) AI will help you understand this repository better.
 
 ## Tools
 
@@ -52,7 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Text and typography
 
-* [@editorjs/paragraph](https://github.com/editor-js/paragraph) — text block base tool 
+* [@editorjs/paragraph](https://github.com/editor-js/paragraph) — text block base tool
 * [@editorjs/header](https://github.com/editor-js/header) — header block
 * [@editorjs/quote](https://github.com/editor-js/quote) — tool for quotes
 * [@editorjs/warning](https://github.com/editor-js/warning) — warning tool can be used as editorials notifications or appeals
@@ -93,7 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [AnatoliyKozlov/editorjs-telegram-post](https://github.com/AnatoliyKozlov/editorjs-telegram-post) — Telegram Post widget
 * [renanrider/editorjs-audio-player](https://github.com/renanrider/editorjs-audio-player) - Simple Audio Tool, works only with pasted URLs with audio src and requires no server-side uploader.
 * [Furison-Tech/editorjs-audio](https://github.com/Furison-Tech/editorjs-audio) - HTML audio block with uploader (requires server-side uploader), based on the official editorjs image tool.
-* [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox. 
+* [sureshHARDIYA/flipboxplus](https://github.com/sureshHARDIYA/flipboxplus) - Configurable carousel that allows to add, edit, delete slides. Slides are configured to display as flipbox.
 * [image-with-link](https://github.com/kaaaaaaaaaaai/image-with-link) - upload image with link. forked by official image plugin
 * [editorjs-drawing-tool](https://github.com/blade47/editorjs-drawing-tool) - Drawing Tool for Editor.js
 * [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) - Multi-image block with advanced drag-and-drop functionality
@@ -160,7 +158,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-indent-tune](https://www.npmjs.com/package/editorjs-indent-tune) - Block Tune for indenting any type of block
 * [@coolbytes/editorjs-anchor](https://github.com/CoolBytesIN/editorjs-anchor) — Block Tune to toggle Anchor for any block type
 * [editor-js-alignment-tune](https://github.com/Diesnei/editor-js-alignment-tune) — Block Tune to add cutomizable text alignment to any Block Tool
-  
+* [editorjs-image-tune-plus](https://github.com/pasichDev/editorjs-image-tune-plus) — Advanced Image Styling Tune for Editor.js, compatible with the official @editorjs/image tool. Developed with mobile platforms in mind to fix image scaling and alignment issues on mobile layouts.
+
 ### Plugins
 
 * [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) — Drag/Drop feature for Editor.js
@@ -244,6 +243,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editor.js-kit-android](https://github.com/Upstarts/editor.js-kit-android) - Android framework for parsing and rendering blocks
 
 ### Java
+
 * [EditorjsToMarkdown](https://github.com/PiuPiue/EditorjsToMarkdown) - A Java-based tool that parses Editor.js JSON into Markdown
 
 ### Plugins for CMS
@@ -283,11 +283,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
 * [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
 * [OddsRabbit](https://www.oddsrabbit.com/) - Community Platform For Creator - Alternative to Reddit, Patreon, and Substack
-  
+* [My Notes](https://github.com/pasichDev/MyNotes) — Uses Editor.js as extended rich text editor via WebView in mobile apps for notes/productivity features.
 
 ### Open source projects
 
-* [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js 
+* [frappeframework.com](https://frappeframework.com/docs/v14/user/en/desk/workspace/customization#customizing-workspace-page) - A meta data based framework which has workspace feature which uses Editor.js
 * [automad.org](https://automad.org) — a flat-file content management system and template engine
 * [CodeX Docs](https://github.com/codex-team/codex.docs) — documentation engine
 * [CodeX Media](https://github.com/codex-team/codex.media) — platform for building modern website for educational or media organizations
