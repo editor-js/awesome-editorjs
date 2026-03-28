@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-comment](https://github.com/osain-az/editorjs-comment) - Tool that allows you to add comment to editorjs
 * [editorjs-inline-hotkey](https://github.com/Stuhl/editorjs-inline-hotkey) - Inline Tool that marks text as Hotkey
 * [editor-js-tg-spoiler](https://github.com/izotikov/editor-js-tg-spoiler) - Inline tool for adding spoilers to text fragments for Editor.js, supporting export to telegram.
+* [editorjs-mentions](https://github.com/pmalirz/editorjs-mentions) — Mentions and autocomplete plugin with custom triggers and pluggable providers.
 
 ### Block Tune Tools
 
