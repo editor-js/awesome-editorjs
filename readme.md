@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) - Color Picker Tool
 * [@cychann/editorjs-quote](https://github.com/cychann/editorjs-quote) - Improved Quote Block Tool (Includes more quote styles)
 * [@skchawala/editorjs-text-style](https://github.com/skchawala/editorjs-text-style) - inline tool for customizing font size and font family — lightweight, configurable, and easy to use.
-* [editorjs-color](https://github.com/vinsurs/editorjs-color) - Color inline Tool, supports custom color palettes, easy to use
+
 #### Lists
 
 * [@editorjs/list](https://github.com/editor-js/list) — ordered or unordered (bulleted) lists
@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-comment](https://github.com/osain-az/editorjs-comment) - Tool that allows you to add comment to editorjs
 * [editorjs-inline-hotkey](https://github.com/Stuhl/editorjs-inline-hotkey) - Inline Tool that marks text as Hotkey
 * [editor-js-tg-spoiler](https://github.com/izotikov/editor-js-tg-spoiler) - Inline tool for adding spoilers to text fragments for Editor.js, supporting export to telegram.
+* [editorjs-color](https://github.com/vinsurs/editorjs-color) - Color inline Tool, supports custom color palettes, easy to use
 
 ### Block Tune Tools
 
