@@ -99,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@cychann/editorjs-group-image](https://github.com/cychann/editorjs-group-image) - Multi-image block with advanced drag-and-drop functionality
 * [editorjs-gifs](https://github.com/jingjunm/editorjs-gif) - Add GIFs to your editorjs setup
 * [editorjs-image-crop-resize](https://github.com/mohdaffann/editorjs-image-crop-resize) - image tool with crop, resize, rotate, and flip (X/Y axis) support powered by Cropper.js
+* [editorjs-upload-video-tool](https://github.com/anto-sh/editorjs-upload-video-tool) — video block tool using the built-in `<video>` element, with a custom or built-in `fetch()` uploader, drag & drop / paste, and file validation
 
 #### Table
 
