@@ -168,6 +168,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-undo](https://github.com/kommitters/editorjs-undo) — Undo/Redo feature for Editor.js
 * [editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - Two plugins which allow you to export/import Markdown file
 * [editorjs-multiblock-selection-plugin](https://www.npmjs.com/package/editorjs-multiblock-selection-plugin) - Plugin to extend your inline tools to work in multiblock selection
+* [editorjs-cross-block-format](https://github.com/kost-t-human/editorjs-cross-block-format) - Inline formatting for a selection that starts and ends mid-paragraph and spans several blocks; non-text blocks in between are skipped
+* [editorjs-image-resize](https://github.com/kost-t-human/editorjs-image-resize) - Drag-to-resize corner handle for images in any block tool, without starting a block drag
 
 ## Libraries
 
