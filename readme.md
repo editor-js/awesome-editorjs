@@ -81,6 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@editorjs/image](https://github.com/editor-js/image) — image block
 * [@editorjs/simple-image](https://github.com/editor-js/simple-image) — add images to article by pasting image URLs. no server-side uploader required
 * [@editorjs/link](https://github.com/editor-js/link) — link with preview
+* [editorjs-unfurlr](https://github.com/smaranje/editorjs-unfurlr) — working LinkTool link previews using the unfurlr API, with an origin-locked browser key (no backend) or a small proxy
 * [@editorjs/attaches](https://github.com/editor-js/attaches) — attach files to your article
 * [@editorjs/embed](https://github.com/editor-js/embed) — pasted patterns handling and inserts iframe with embedded content
 * [simple-image-editorjs](https://github.com/PaulKinlan/simple-image) — fork of the SimpleImage repository. It adds in extra functionality such as a toolbar to add images (rather than just drag and drop) and uses blob URL's to improve memory usage
