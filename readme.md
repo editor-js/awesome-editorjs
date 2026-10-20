@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [@calumk/editorjs-codeflask](https://github.com/calumk/editorjs-codeflask) — Beautiful code highlighting, with linenumbers, and language support. Powered by Codeflask + PrismJs
 * [ace-code-editorjs](https://github.com/hsnfirdaus/ace-code-editorjs) — Ace Code Editor block for the Editor.js with language selection.
 * [@rxpm/editor-js-code](https://github.com/rajatxs/editor-js-code) - Custom Code Plugin adds code examples to articles with a language dropdown.
+* [editorjs-code-editor](https://github.com/amirtds/editorjs-code-editor) — Code editor with 12 language modes, 4 visual styles, and in-browser Python execution via Pyodide WebAssembly
 
 #### Button
 
@@ -285,6 +286,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [WebResearcherJS](https://github.com/kvgc/WebResearcherJS-extension) -  Firefox extension which allows users to take notes on webpages
 * [The Work Docs](https://www.theworkdocs.com/) -  AI PDF Reader - allows you to read, write, research long PDF file
 * [OddsRabbit](https://www.oddsrabbit.com/) - Community Platform For Creator - Alternative to Reddit, Patreon, and Substack
+* [Cubite](https://cubite.io) - Multi-tenant LMS platform with 23 custom EditorJS plugins for course content editing
   
 
 ### Open source projects
