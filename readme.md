@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-color-picker](https://github.com/Matergi/editorjs-color-picker) - Color Picker Tool
 * [@cychann/editorjs-quote](https://github.com/cychann/editorjs-quote) - Improved Quote Block Tool (Includes more quote styles)
 * [@skchawala/editorjs-text-style](https://github.com/skchawala/editorjs-text-style) - inline tool for customizing font size and font family — lightweight, configurable, and easy to use.
+* [editorjs-cards](https://github.com/oakoudad/editorjs-cards) - A block tool for Editor.js that renders an auto-fill responsive grid of cards. Each card has a title and description.
 
 #### Lists
 
