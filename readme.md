@@ -297,6 +297,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Noter](https://noter.sambitsahoo.com) - A State of the Art realtime and collaborative note taking platform
 * [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 * [EvaNotebook](https://notebook.sanchezcarlosjr.com/) - A collaborative peer-to-peer notebook for Web Technologies
+* [Blok](https://github.com/JackUait/blok) - A fork of Editor.js with React, Vue and Angular adapters, plus a migration guide for existing Editor.js setups
 
 <!--
 ### Apps/Websites
