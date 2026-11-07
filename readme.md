@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [editorjs-html](https://github.com/pavittarx/editorjs-html) — a utility to parse editorjs clean data to HTML
 * [editorjs-to-html](https://github.com/vorjyga/editorjs-to-html) — editorjs format parser to html with saving editorjs markup format
 * [editor-js-component](https://github.com/WebJeffery/editor-js-component) - an editorjs library that can use Vue and React frameworks
+* [@anarchitects/editorjs-html](https://github.com/anarchitects/anarchitecture-community/tree/main/packages/editorjs/html) — Editor.js JSON to sanitized HTML for Node and bundled browsers, with strict validation, preview diagnostics and custom renderers.
 
 #### Vue.js
 
@@ -201,6 +202,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Angular
 
 * [@tinynodes/ngx-editorjs](https://www.npmjs.com/package/@tinynodes/ngx-editorjs) — This library provides Angular support for EditorJS.
+* [@anarchitects/editorjs-angular](https://github.com/anarchitects/anarchitecture-community/tree/main/packages/editorjs/angular) — Standalone Angular 22 editor component with optional Signal Forms integration.
+* [@anarchitects/editorjs-html-angular](https://github.com/anarchitects/anarchitecture-community/tree/main/packages/editorjs/html-angular) — Angular 22 display component and directive for sanitized Editor.js HTML, with SSR and hydration support.
 
 #### Svelte
 
