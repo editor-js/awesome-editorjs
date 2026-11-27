@@ -253,6 +253,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 * [Front Editor](https://wpfronteditor.com/) - Front Editor plugin for [WordPress](https://wordpress.com)
 * [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Backend formwidget for [OctoberCMS](https://octobercms.com)
 * [Strapi-EditorJS](https://github.com/melishev/strapi-plugin-react-editorjs) - Replace [Strapi](https://strapi.io) default WYSIWYG editor with Editor.js.
+* [Magic Editor X](https://github.com/Schero94/Magic-Editor-X) - Editor.js custom field for [Strapi 5](https://strapi.io) with Media Library uploads, custom blocks, version history and live collaboration
 * [Admin Block Editor](https://pushword.piedweb.com/extension/admin-block-editor) - Admin plugin for [Pushword CMS](https://pushword.piedweb.com) (based on symfony)
 * [Editor.js - Directus Extension](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Add an Editor.js interface to [Directus](https://github.com/directus/directus)
 * [Cotonti CMF Editor.js plugin](https://github.com/Edd-G/cot-editorjs) - Content editor plugin for [Cotonti CMF](https://www.cotonti.com)
